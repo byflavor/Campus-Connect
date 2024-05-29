@@ -1,0 +1,24 @@
+.navbar-container {
+    background-color: #0c2752;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-left-container {
+    padding: 2rem;
+}
+
+.navbar-right-container {
+    display: flex;
+    color: #ffffff;
+}
+
+.navbar-right-container-text {
+    padding: 3rem;
+}
+
+.navbar-right-container-selected-text {
+    padding: 3rem;
+    font-weight: bold;
+}

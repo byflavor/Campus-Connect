@@ -1,0 +1,7 @@
+Data information ->
+
+1. Data will come in forms from users, it will take in the event type, certian tags (2) and the time. Also it will have a contact for the person
+2. This data will be stored in a NOSQL database for fast access, and will 
+3. Allow users to submit via google form
+4. Go through and add it to a calendar via an api
+5. For api security use cognito
