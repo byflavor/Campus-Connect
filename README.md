@@ -36,7 +36,3 @@ To set up Campus Connect locally, follow these steps:
 4. Run the React frontend: `npm start`
 5. Access the application via `localhost:3000` in your browser.
 
-## Future Steps
-- Collaborate with other universities (UMICH, Purdue) to expand the platform's reach.
-- Increase marketing efforts at UIUC to boost user engagement.
-- Enhance platform features like user event preferences and notifications.
