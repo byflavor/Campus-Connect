@@ -36,12 +36,6 @@ To set up Campus Connect locally, follow these steps:
 4. Run the React frontend: `npm start`
 5. Access the application via `localhost:3000` in your browser.
 
-## Group Members and Roles
-- **Sarthak**: Developed the Smart AI-powered tool to populate Campus Connect and managed some aspects of the backend.
-- **Aryan**: Backend developer, focused on Django implementation and API development.
-- **Rashmi**: Frontend developer responsible for the styling and index page, integrated events API to the frontend ensuring dynamic content updates.
-- **Anhiti**: Worked on frontend development, enhancing user interface and interactions across the application.
-
 ## Future Steps
 - Collaborate with other universities (UMICH, Purdue) to expand the platform's reach.
 - Increase marketing efforts at UIUC to boost user engagement.
